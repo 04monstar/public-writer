@@ -185,8 +185,9 @@ export default function HomePage() {
               The Reading Room
             </h1>
             <p className="mt-3 max-w-md text-sm leading-relaxed text-[#9a917e]">
-              Choose a volume. It opens like a real book — with weight, paper, and the
-              quiet hush of a library after closing.
+              A collection of stories, essays, and poems to read in a physical book format. 
+              Each story is designed to be printed and bound into a small book, with a cover and page layout that enhances the reading experience.
+        
             </p>
           </motion.div>
         </header>
